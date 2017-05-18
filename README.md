@@ -1,7 +1,7 @@
 # Number-digital-7_segment
 Share code Algorithm in C language
 
-## Input
+## Input -->Open File dokjan.exe
 
 ```c
 10
